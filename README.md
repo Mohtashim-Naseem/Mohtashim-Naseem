@@ -4,15 +4,24 @@
 <h2>👨‍💻 Software Development Projects:</h2><br>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - Praciting DS & Algos in Python
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - Image Analysis Middleware
+<!--
 - <b>PowerShell</b>
   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
+<!--
 - <b>C# (.NET Desktop Applications)</b>
   - Ransomware Proof of Concept (Encrypter)
   - Keylogger with Email Capability
+<!--
 - <b>Python</b>
   - Package Delivery Application (Datastructures and Algorithms Demo)
+<h2> 🤳 Connect with me:</h2>
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 <!--
 **Mohtashim-Naseem/Mohtashim-Naseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
