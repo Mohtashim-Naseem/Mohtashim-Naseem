@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1>Hi, I'm Mohtashim! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/mohtashimnaseem/">Professional in Programming languages, frameworks, and technologies you specialize in, e.g., Python, JavaScript, React, Node.js</h1>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2><br>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
