@@ -3,14 +3,14 @@
 <h1>Hi, I'm Mohtashim! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>, <a href="https://www.linkedin.com/in/mohtashimnaseem/">Professional in Programming languages, frameworks, and technologies you specialize in, e.g., Python, JavaScript, React, Node.js</h1>
 <h2>👨‍💻 Software Development Projects:</h2><br>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]
+  - Praciting DS & Algos in Python
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - Image Analysis Middleware
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)
-  - [Keylogger with Email Capability]
+  - Ransomware Proof of Concept (Encrypter)
+  - Keylogger with Email Capability
 - <b>Python</b>
   - Package Delivery Application (Datastructures and Algorithms Demo)
 <!--
